@@ -67,7 +67,7 @@ Para rodar os testes:
     npm test
     ```
 
-O servidor estará disponível em http://localhost:3000
+O servidor estará disponível em http://localhost:3333
 
 Exportei a collection utilizada para testar as rotas, disponível no arquivo 'collections.json' do projeto.
 
